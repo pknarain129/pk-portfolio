@@ -1,0 +1,86 @@
+---
+title: "PK Narain"
+subtitle: "MBA | AI Applications in Business | Network & Security Specialist"
+format:
+  html:
+    theme: cosmo
+    toc: false
+    page-layout: full
+    css: styles.css
+---
+
+# 👋 About Me
+
+I am an MBA graduate specializing in Artificial Intelligence applications in business and marketing, with over 15 years of experience in IT infrastructure, network security, and web development. 
+
+My professional focus lies at the intersection of technology and strategy — leveraging AI-driven insights, cybersecurity frameworks, and digital solutions to create measurable business value.
+
+---
+
+# 🎓 Education
+
+**Master of Business Administration (MBA)**  
+AI Applications in Business & Marketing  
+
+**Information Technology Background**  
+Specialization in Network Architecture, Security, and Web Systems
+
+---
+
+# 💼 Professional Experience
+
+## IT & Network Security Specialist  
+- 15+ years of hands-on experience in network design and enterprise security
+- Expertise in firewall configuration, intrusion prevention systems, and secure infrastructure deployment
+- Led implementation of scalable network systems for business environments
+
+## Web Designer & Digital Strategist  
+- Developed responsive, business-focused websites
+- Integrated SEO and analytics for performance tracking
+- Applied AI-based marketing insights to improve digital engagement
+
+---
+
+# 🧠 Key Skills
+
+- Network Security & Infrastructure
+- Cybersecurity Risk Assessment
+- AI Applications in Business
+- Strategic Management & Business Analysis
+- Web Design & Development
+- Digital Marketing Analytics
+- Problem-Solving & Leadership
+
+---
+
+# 📷 Professional Profile
+
+![PK Narain Headshot](profile.jpg.jpg)
+
+---
+
+# 📫 Contact
+
+- 📧 Email: pk.narain129@yahoo.com  
+- 📱 Phone: +1 (236) 339-7049  
+- 🌐 LinkedIn: (www.linkedin.com/in/pramod-kumar-03405744)  
+- 💻 GitHub: (Add link if applicable)
+
+---
+
+# 🚀 Professional Vision
+
+My goal is to bridge business strategy and emerging technologies by helping organizations adopt AI-driven systems securely and strategically. I aim to contribute to innovation-focused environments where data, cybersecurity, and business intelligence intersect.
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2 {
+  color: #003366;
+}
+
+img {
+  border-radius: 50%;
+  max-width: 200px;
+}
