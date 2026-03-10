@@ -1,0 +1,39 @@
+---
+title: "Projects"
+---
+
+# Major Enterprise Projects
+
+## Microsoft Teams PSTN Migration
+
+Led migration of enterprise PSTN users from Cisco Unified Communications Manager to Microsoft Teams Direct Routing infrastructure while maintaining compliance recording capabilities.
+
+---
+
+## Zoom Cloud Phone Implementation
+
+Successfully migrated enterprise users from traditional PBX systems to Zoom Cloud Phone platform.
+
+---
+
+## Cisco UCM Cluster Deployment
+
+Designed and deployed a Cisco Unified Communications Manager cluster for a new enterprise site in India supporting approximately 3000 users.
+
+---
+
+## NICE Voice Biometrics Implementation
+
+Implemented real-time authentication using NICE Voice Biometrics for users across multiple countries.
+
+---
+
+## Speech Analytics Integration
+
+Implemented speech analytics solution integrated with existing compliance recording infrastructure.
+
+---
+
+## Avaya to Cisco Migration
+
+Migrated more than 4000 enterprise users from Avaya telephony systems to Cisco Unified Communications platform.

@@ -1,0 +1,63 @@
+---
+title: "Resume"
+---
+
+# Professional Resume
+
+📄 Download Full Resume
+
+[Download Resume](PramodKumar_Resume-11Feb26.docx)
+
+---
+
+# Professional Summary
+
+Senior Voice Infrastructure Specialist with more than 15 years of experience working with global enterprises in the banking, consulting, and technology sectors.
+
+Expertise in designing, implementing, and managing enterprise voice infrastructure using Cisco Unified Communications, Avaya PBX systems, NICE and Verint recording platforms, and modern collaboration technologies.
+
+---
+
+# Key Technical Skills
+
+### Voice Infrastructure
+
+Cisco Unified Call Manager  
+Cisco IM & Presence  
+Cisco Expressway  
+Cisco Meeting Server  
+Cisco Jabber  
+Cisco Deskphones and Video Devices  
+
+### Recording Technologies
+
+NICE Recording  
+Verint Recording  
+Voice Biometrics  
+Speech Analytics  
+
+### Collaboration Platforms
+
+Microsoft Teams PSTN Calling  
+Zoom Cloud Phone  
+
+### Programming & Databases
+
+Python  
+ICM Scripting  
+MSSQL  
+MySQL  
+
+### Protocols
+
+SIP  
+H323  
+SCCP  
+MGCP  
+TLS / SSL  
+
+### ITSM & Incident Management
+
+ServiceNow  
+ITSM Tools  
+iChamps

@@ -1,0 +1,33 @@
+---
+title: "Appendix"
+---
+
+# LLM Generated Site Map
+
+Home  
+Resume  
+Projects  
+Skills  
+Contact  
+
+---
+
+# Original Draft
+
+Example LLM Draft:
+
+"I am a motivated MBA student interested in technology and business strategy."
+
+---
+
+# Final Edited Version
+
+"I am an MBA graduate specializing in Artificial Intelligence applications in business with more than 15 years of experience in enterprise voice collaboration technologies."
+
+---
+
+# Revisions Made
+
+• Added real professional experience  
+• Added enterprise project examples  
+• Replaced generic language with accurate career information

@@ -1,0 +1,17 @@
+---
+title: "Reflection"
+---
+
+# Reflection on Using LLMs
+
+During the development of this portfolio website, I used large language models to assist in brainstorming the site structure and drafting the content for multiple sections of the website.
+
+Initially, the LLM helped generate the overall website architecture including pages such as Home, Resume, Projects, Skills, and Contact. This helped in organizing the information effectively and presenting my professional background in a structured way.
+
+As I expanded the website, the LLM was particularly useful in helping draft descriptions for projects, professional experience, and technical skills. However, I carefully reviewed the generated content to ensure that all information accurately reflected my real professional experience.
+
+To maintain authenticity, I replaced generic descriptions with real examples from my work experience, including my involvement in Cisco Unified Communications deployments, PSTN migration projects, and compliance recording infrastructure implementations.
+
+Another important step in the process was editing the language and improving clarity. I ensured that the website reflects both my technical expertise and my MBA focus on artificial intelligence applications in business.
+
+Overall, the use of LLM tools significantly improved the efficiency of the planning and drafting process, while human review ensured accuracy, authenticity, and professionalism.

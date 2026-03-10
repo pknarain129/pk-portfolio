@@ -1,0 +1,47 @@
+---
+title: "Skills & Certifications"
+---
+
+# Technical Skills
+
+## Cisco Voice Collaboration
+
+Cisco Unified Communications Manager  
+Cisco Expressway  
+Cisco Meeting Server  
+Cisco Unity Connection  
+
+---
+
+## Enterprise Collaboration Platforms
+
+Microsoft Teams Calling  
+Zoom Cloud Telephony  
+Cisco Jabber  
+
+---
+
+## Compliance Recording Platforms
+
+NICE Recording Systems  
+Verint Recording Solutions  
+Voice Biometrics  
+Speech Analytics  
+
+---
+
+## Infrastructure & Architecture
+
+VoIP Architecture  
+Enterprise Communication Systems  
+Network Infrastructure Design  
+Voice Security and Compliance  
+
+---
+
+# Certifications
+
+Avaya Certified Administrator  
+NICE Perform Certified Administrator  
+Convergence Technologies Professional (CTP)  
+ITIL Framework Awareness
